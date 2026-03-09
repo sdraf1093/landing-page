@@ -1,5 +1,6 @@
 # landing-page
-Practice project: landing-page
+
+This is a practice project to create a responsive landing page. 
 
 ## Features
 - Responsive design
